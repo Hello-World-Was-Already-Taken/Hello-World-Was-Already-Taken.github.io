@@ -18,21 +18,16 @@ header img
 
 .gros-titre
 {
-    font-size: 60px;
+    font-size: 40px;
 }
 
 
 body 
 {
     margin: 0 auto;
+    
 }
-section.top-page 
-{
-    background: url(../bg.png);
-    background-size: cover;
-    height: 100vh;
-    padding: 25px;
-}
+
 
 /* menu de navigation */
 
